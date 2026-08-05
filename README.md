@@ -136,15 +136,6 @@ Building practical projects that combine:
 ---
 
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mo-sbeih&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mo-sbeih&theme=tokyonight" />
-
-</div>
-
----
 
 <div align="center">
 
