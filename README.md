@@ -28,7 +28,10 @@ Building projects in Artificial Intelligence, Machine Learning, and Data Science
 </a>
 
 </div>
+
+
 ---
+
 ## 🚀 About Me
 
 🎓 Computer Science Student
