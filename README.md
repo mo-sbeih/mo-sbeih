@@ -4,7 +4,7 @@
 
 
 
-### 🤖 Aspiring AI Engineer | data science and AI student
+### 🤖 Aspiring AI Engineer | Data Science & Artificial Intelligence Student
 
 Building projects in Artificial Intelligence, Machine Learning, and Data Science.
 
@@ -34,7 +34,7 @@ Building projects in Artificial Intelligence, Machine Learning, and Data Science
 
 ## 🚀 About Me
 
-🎓 Computer Science Student
+🎓 Data Science & Artificial Intelligence Student
 
 🤖 Passionate about Artificial Intelligence and Machine Learning
 
@@ -42,8 +42,9 @@ Building projects in Artificial Intelligence, Machine Learning, and Data Science
 
 🌱 Currently improving my skills in:
 - Machine Learning
-- Software Engineering
 - Deep Learning
+- Software Engineering
+- Backend Development
 - AI System Development
 
 
@@ -74,6 +75,11 @@ Building projects in Artificial Intelligence, Machine Learning, and Data Science
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
+
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 
 
 ### Development Tools
@@ -118,18 +124,23 @@ Building practical projects that combine:
 
 ---
 
-# 📚 Certifications & Learning
-
+# 📚 Learning Journey
 
 🎓 IBM Data Science Professional Certificate
 
-📘 Machine Learning Specialization
+📘 Currently learning:
+- Machine Learning Specialization
+- Applied Software Engineering
 
-📘 Applied Software Engineering
-
-
+  
+---
 ---
 
+<div align="center">
+
+![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mo-sbeih&show_icons=true&theme=tokyonight)
+
+</div>
 
 
 ---
