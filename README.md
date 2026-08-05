@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Mohammad Abu Sbeih
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="50%"/>
+
 
 ### 🤖 Aspiring AI Engineer | data science and AI student
 
